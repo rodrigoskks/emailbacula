@@ -4,7 +4,7 @@
 ##  Script para enviar e-mail aos clientes do Bacula           #
 ##  contendo a unidade, seus jobs e filesets respectivos.      #
 ##  Data de criacao em 26 de Outubro de 2016.                  #
-##  Escrito por: Mauricy e Rodrigo                             #
+##  Escrito por: Rodrigo                                       #
 ################################################################
 
 
