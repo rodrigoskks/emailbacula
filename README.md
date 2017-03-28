@@ -1,6 +1,7 @@
 # emailbacula
-Script to send E-mail to bacula clients with description of files that was backuped,
-edit crontab -e to execute periodically,
+
+This is a Shell Script, made to send E-mail to bacula clients with description of files that was backuped,
+you must edit "crontab -e" to execute periodically,
 must install Mutt,
 must edit paths to work right,
 must give permission to emailbacula.sh file,
